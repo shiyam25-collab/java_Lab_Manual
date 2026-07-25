@@ -1,6 +1,3 @@
-Program :
-	
-//1114-Print in order
 class Foo {
 
     private boolean firstDone = false;
