@@ -1,6 +1,3 @@
-Program :
-
-//705-Design hashset
 class MyHashSet {
 
     private boolean[] set;
