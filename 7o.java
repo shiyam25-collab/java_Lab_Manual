@@ -1,6 +1,3 @@
-Program :
-
-//7-Files I/O
 import java.io.*;
 import java.util.*;
 
