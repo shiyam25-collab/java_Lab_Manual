@@ -1,6 +1,3 @@
-Program :
-
-//swing applications
 import java.util.Scanner;
 
 public class Main {
