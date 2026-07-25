@@ -1,6 +1,3 @@
-Program :
-
-//1396-Design underground system 
 import java.util.*;
 
 class UndergroundSystem {
