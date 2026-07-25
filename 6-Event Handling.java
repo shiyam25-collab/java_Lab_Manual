@@ -1,5 +1,3 @@
-Program : 
-//6-Event handling
 import java.awt.*;
 import java.awt.event.*;
 
