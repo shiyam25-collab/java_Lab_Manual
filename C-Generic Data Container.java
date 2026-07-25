@@ -1,6 +1,3 @@
-Program :
-
-//C-Generic data container
 import java.util.*;
 
 public class Main {
