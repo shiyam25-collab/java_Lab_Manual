@@ -1,6 +1,3 @@
-Program :
-
-//5b-string handling
 import java.util.Scanner;
 
 public class Main {
