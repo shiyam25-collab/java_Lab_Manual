@@ -1,6 +1,3 @@
- Program :
-
-//10-array list
 import java.util.*;
 
 public class Main {
