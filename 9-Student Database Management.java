@@ -1,6 +1,3 @@
-Program :
-
-//9-Student database management
 import java.sql.*;
 import java.util.Scanner;
 
