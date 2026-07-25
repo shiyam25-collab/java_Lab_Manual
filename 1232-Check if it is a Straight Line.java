@@ -1,6 +1,3 @@
-Program :
-
-//1232-Check if it is a straight line
 class Solution {
     public boolean checkStraightLine(int[][] coordinates) {
 
