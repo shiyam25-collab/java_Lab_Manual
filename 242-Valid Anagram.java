@@ -1,6 +1,3 @@
-Program :
-
-//242-Valid anagram
 class Solution {
     public boolean isAnagram(String s, String t) {
 
