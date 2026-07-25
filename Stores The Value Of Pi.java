@@ -1,6 +1,3 @@
-Program :
-
-//stores the value of pi 
 import java.util.Scanner;
 
 interface Pi {
