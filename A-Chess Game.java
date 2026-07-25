@@ -1,6 +1,3 @@
-Program :
-
-//A-chess game
 import java.util.Scanner;
 
 public class ChessGame {
