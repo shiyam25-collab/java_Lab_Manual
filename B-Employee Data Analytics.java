@@ -1,6 +1,3 @@
-Program :
-
-//B-employee data analytics
 import java.util.*;
 import java.util.stream.*;
 
