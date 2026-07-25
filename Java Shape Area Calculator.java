@@ -1,6 +1,3 @@
-Program :
-
-//Java shape area calculator 
 import java.util.Scanner;
 
 interface Shape {
