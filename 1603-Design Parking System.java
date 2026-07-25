@@ -1,6 +1,3 @@
-Program :
-
-//1603-Design parking system 
 class ParkingSystem {
 
     int big;
